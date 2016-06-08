@@ -1,0 +1,14 @@
+html, body {
+    width: 100%;
+}
+.container {
+  height: auto;
+
+}
+.meat {
+    margin: 0 auto;
+    width: 90%;
+    height: 200px;
+    padding-top: 4px;
+    border: 8px solid black;
+}
